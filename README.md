@@ -7,6 +7,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhanttimeline&" alt="GitHub Streak" height="180px" />
 </p>
 
+<p>https://leetcard.jacoblin.cool/Siddhanttimeline?animation=false)</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/siddhant_545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddhant_545" height="30" width="40" /></a>
