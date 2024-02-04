@@ -3,11 +3,10 @@ Hey, I'm a Full Stack Java Developer with 2 years of real-world experience. I li
 
 
 <h1 align="center">Mr. Siddhant Tripathi</h1>
-<h3 align="center">Full stack java developer</h3>
+<h3 align="center">Hey, I'm a Full Stack Java Developer with 2 years of real-world experience. I like building and deploying features that fit perfectly with business needs while making sure they meet industry standards. I'm all about communication and collaboration, and I've got a knack for solving problems, whether it's coding challenges or troubleshooting issues on different platforms.</h3>
 
 <p align="left"> <a href="https://twitter.com/siddhant_545" target="blank"><img src="https://img.shields.io/twitter/follow/siddhant_545?logo=twitter&style=for-the-badge" alt="siddhant_545" /></a> </p>
 
-- 📫 How to reach me **siddhanttimeline9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
