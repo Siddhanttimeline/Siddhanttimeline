@@ -10,7 +10,12 @@
   <!-- LeetCode Stats -->
   <p align="center">
     <a href="https://leetcard.jacoblin.cool/Siddhanttimeline"><img src="https://leetcard.jacoblin.cool/Siddhanttimeline" alt="LeetCode Stats"></a>
+    
   </p>
+
+  <p align="center">
+  <a href="https://github.com/KnlnKS/leetcode-stats"><img src="https://leetcode-stats-six.vercel.app/?username=Siddhanttimeline&theme=dark" alt="Siddhant's LeetCode stats"></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
