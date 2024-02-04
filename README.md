@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhanttimeline&layout=compact&langs_count=8" alt="Top Languages" height="180px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhanttimeline&" alt="GitHub Streak" height="180px" />
 </p>
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
+<p>[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)</p>
 <p>https://leetcard.jacoblin.cool/Siddhanttimeline?animation=false)</p>
 
 <h3 align="left">Connect with me:</h3>
