@@ -1,4 +1,3 @@
-<h1 align="center">Mr. Siddhant Tripathi</h1>
 <h3 align="center">Hi, I'm Siddhant. I've been working as a full-stack Java developer for the past 2 years. Here, you will find several projects in Spring. I have a knack for problem-solving, you'll find a repository named Leetcode containing 100+ solutions in Java. In the future, I plan to add an RBAC SaaS application. I value communication and collaboration, so feel free to reach out to me.</h3>
 
 <!-- Most Used Language and GitHub Streak -->
