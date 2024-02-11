@@ -1,5 +1,5 @@
 <h1 align="center">Mr. Siddhant Tripathi</h1>
-<h3 align="center">Hey, I'm a Full Stack Java Developer with 2 years of real-world experience. I like building and deploying features that fit perfectly with business needs while making sure they meet industry standards. I'm all about communication and collaboration, and I've got a knack for solving problems, whether it's coding challenges or troubleshooting issues on different platforms.</h3>
+<h3 align="center">Hi, I'm Siddhant. I've been working as a full-stack Java developer for the past 2 years. Here you will find serveral projects in Spring. I have a knack for problem-solving, therefore you'll find a repository named Leetcode containing 100+ solutions in Java. In the future, I plan to add an RBAC SaaS application. I value communication and collaboration, so feel free to reach out to me.</h3>
 
 <!-- Most Used Language and GitHub Streak -->
 <p align="center">
