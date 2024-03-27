@@ -17,7 +17,7 @@
   <a href="https://www.leetcode.com/siddhanttimeline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddhanttimeline" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/siddhanttimelin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="siddhanttimelin1" height="30" width="40" /></a>
   <a href="YOUR_NOTION_LINK" target="blank">
-    <img align="center" src="https://YOUR_NOTION_ICON_LINK" alt="Notion" height="30" width="40" />
+    <img align="center" src="https://simpleicons.org/icons/notion.svg" alt="Notion" height="30" width="40" />
   </a>
 </p>
 
